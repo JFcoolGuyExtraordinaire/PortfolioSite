@@ -133,9 +133,6 @@ body {
   font-size:   25px;
   text-decoration: none;
 }
-.SkillList{
-  text-decoration: underline;
-}
 .SkillItem{
   text-decoration: none;
   list-style-type: ;
@@ -147,6 +144,7 @@ body {
   margin-top:  30px;
   font-size:   40px;
   text-decoration: underline;
+    font-weight: bold;
 }
 .SkillItem {
   position: relative;
